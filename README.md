@@ -11,7 +11,7 @@
 * 哪怕一节课都不听，这份作业的含金量也值回票钱
 * 尚不确定这份作业是否是CSU原创，但是在全网没有找到非CSU提交的公开资源，直接刷新了本人对中南计算机本科教育作业水平的上限认知
 ## 笔记放送
-学姐的笔记：https://www.wolai.com/mawxuan/6CxsApj2mbZ4Hiyq1s8r2x 可以用来辅助复习
+学姐的笔记：https://www.wolai.com/mawxuan/6CxsApj2mbZ4Hiyq1s8r2x, 基于课堂笔记和作业整理而成，可以作为开卷考参考资料，或者用来辅助复习
 ## 项目结构
 * 各期作业
   *  HW1_LinearRegression
